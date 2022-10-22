@@ -1,0 +1,33 @@
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        gitHistory.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        gitHistory.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+commit d231234fcd95fad62d892dbfda3edb3a02d211c0 (HEAD -> master)
+Author: ionejohn <ivanmihalus@gmail.com>
+Date:   Sat Oct 22 13:40:00 2022 +0300
+
+    three commit
+
+commit 47ded3f378b686fb113b0365fcc3329123362c90
+Author: ionejohn <ivanmihalus@gmail.com>
+Date:   Sat Oct 22 13:30:49 2022 +0300
+
+    two commit
+
+commit 5ae19a63340125a673432f56f0e497ca9e5bc6c1
+Author: ionejohn <ivanmihalus@gmail.com>
+Date:   Sat Oct 22 13:08:38 2022 +0300
+
+    one save
+
+    
