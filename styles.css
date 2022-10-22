@@ -66,7 +66,7 @@ li{
 }
 .top-inner{
     padding: 225px 0 288px;
-    background-image: url(image/topphoto.svg);
+    background-image: url(https://raw.githubusercontent.com/ionejohn/two_repository/cdce9b3d809cd8ee73ee75a7fea3efc88e89787b/Blue%20Orange%20Simple%20Minimalist%20Digital%20Marketing%20Agency%20Instagram%20Post%201.svg);
     background-repeat: no-repeat;
     background-position: 656px 70px;
 }
@@ -156,7 +156,7 @@ margin-bottom: 16px;
  }
  .about-inner{
     padding: 215px 0 267px 0;
-    background-image: url(image/about\ image.svg);
+    background-image: url(https://raw.githubusercontent.com/ionejohn/two_repository/782d88a1b65b7db58835036471fc24ac771532ea/about%20image.svg);
     background-repeat: no-repeat;
     background-position: 34px 80px;
  }
@@ -380,10 +380,26 @@ width: 956px;
     padding-inline-start: 0;
     
 }
-.customer-item{
+.customer-item-A{
     padding: 32px 32px 36px;
     max-width: 416px;
-    background-image: url(image/Avatar\ Image.png);
+    background-image: url(https://raw.githubusercontent.com/ionejohn/two_repository/main/Avatar%20Image.png);
+    background-repeat: no-repeat;
+    background-position: 32px 164px ;
+    border: 1px solid rgba(0, 0, 0, 0.1); 
+}
+.customer-item-B{
+    padding: 32px 32px 36px;
+    max-width: 416px;
+    background-image: url(https://raw.githubusercontent.com/ionejohn/two_repository/main/Avatar%20Image1.png);
+    background-repeat: no-repeat;
+    background-position: 32px 164px ;
+    border: 1px solid rgba(0, 0, 0, 0.1); 
+}
+.customer-item-C{
+    padding: 32px 32px 36px;
+    max-width: 416px;
+    background-image: url(https://raw.githubusercontent.com/ionejohn/two_repository/main/Avatar%20Image2.png);
     background-repeat: no-repeat;
     background-position: 32px 164px ;
     border: 1px solid rgba(0, 0, 0, 0.1); 
